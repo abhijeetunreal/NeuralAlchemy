@@ -8,12 +8,12 @@
   place-items: center;
   place-content: center;
   background-image: linear-gradient(135deg, var(--primary),var(--secondary)), url("../../assets/img/mountain-and-forest-bkg.jpg");
-  background: url("Videos/Neural2.gif") center / cover no-repeat;
+  background: url("../../assets/img/LeminalImg/image(14).png") center / cover no-repeat;
 }
 
 .titulo2 {
   display: flex;
-  font-family: 'Montserrat';
+  font-family: Playball;
   font-size: 6.5rem;
   color: #fff;
   text-shadow: #5E5858 4px 4px 8px;
